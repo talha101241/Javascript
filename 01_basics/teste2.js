@@ -1,1 +1,1 @@
-asds
+alert('Test')
